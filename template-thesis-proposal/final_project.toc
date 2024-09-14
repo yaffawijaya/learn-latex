@@ -1,0 +1,49 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{ABSTRAK}{iii}{Doc-Start}%
+\contentsline {section}{DAFTAR ISI}{iv}{Doc-Start}%
+\contentsline {section}{DAFTAR GAMBAR}{vi}{Doc-Start}%
+\contentsline {section}{DAFTAR TABEL}{vii}{Doc-Start}%
+\contentsline {section}{BAB I PENDAHULUAN}{1}{Doc-Start}%
+\contentsline {subsection}{\numberline {1.1}Latar Belakang Masalah}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Rumusan Masalah}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Tujuan dan Manfaat}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Batasan Masalah}{3}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Metode Penelitian}{3}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Jadwal Pelaksanaan}{3}{subsection.1.6}%
+\contentsline {section}{BAB II TINJAUAN PUSTAKA}{5}{table.caption.1}%
+\contentsline {subsection}{\numberline {2.1}Penggunaan Bahasa Indonesia yang Baik dan Benar}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Format Penulisan Tugas Akhir}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Kertas}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Pengetikan}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Penomoran Halaman}{7}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Ketentuan Halaman Sampul}{7}{subsubsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.3}Ketentuan Penggunaan Gambar, Tabel dan Persamaan}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Penyisipan Gambar}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Penyisipan Tabel}{8}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Penulisan Rumus atau Persamaan}{9}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Penulisan Kutipan format IEEE.}{9}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Kutipan Langsung}{10}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Kutipan Tidak Langsung}{10}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Penggunaan Referensi}{10}{subsection.2.5}%
+\contentsline {section}{BAB III PERANCANGAN SISTEM}{11}{subsection.2.5}%
+\contentsline {subsection}{\numberline {3.1}Desain Sistem}{11}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Diagram Blok}{11}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Fungsi dan Fitur}{11}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Desain Perangkat Keras}{11}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Spesifikasi Komponen}{11}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Desain Perangkat Lunak}{11}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Spesifikasi Sub Sistem}{11}{subsubsection.3.3.1}%
+\contentsline {section}{BAB IV HASIL DAN ANALISIS}{12}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {4.1}Hasil Percobaan}{12}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Pengujian Parameter A}{12}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Pengujian Parameter B}{12}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Analisis}{12}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Analisis Hubungan Parameter A terhadap Tujuan A}{12}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Analisis Hubungan Parameter B terhadap Tujuan A}{12}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Analisis Hubungan Parameter A terhadap Tujuan B}{12}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Analisis Hubungan Parameter B terhadap Tujuan B}{12}{subsubsection.4.2.4}%
+\contentsline {section}{BAB V SIMPULAN DAN SARAN}{13}{subsubsection.4.2.4}%
+\contentsline {subsection}{\numberline {5.1}Simpulan}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Saran}{13}{subsection.5.2}%
+\contentsline {section}{LAMPIRAN}{14}{Item.31}%
+\contentsfinish 
