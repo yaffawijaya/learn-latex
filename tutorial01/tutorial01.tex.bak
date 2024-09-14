@@ -1,0 +1,32 @@
+\documentclass[11pt]{article}
+
+\begin{document}
+Hello! This is using Quick Build! and before this is using Shift key and now is using Shift key but saving it first using CTRL + S. And now i am currently write this using \LaTeX\ to write this. \\And this is just a safe return.
+
+But now it is just a new paragraph. And i think the $E=mc^2$ is coming from Einstein. Great!
+
+Now this should be updated the view in the pdf viewer!!	
+
+special equation:
+$$E=mc^2$$
+
+$$N = X^{hehe}$$
+
+superscripts $3x^2$
+
+subscripts $X_1$ with $X_{hehe}$
+
+dante notation
+$$hehe_0, hehe_1, hehe_2, \ldots, hehe_n$$
+
+
+Greek Letter and Symbol
+$$\pi$$
+$$\Pi$$
+
+$$\alpha$$
+
+$$A=\pi r^2$$
+
+$$y= \sin x$$
+\end{document}
